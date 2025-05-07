@@ -258,7 +258,8 @@ blockquote {
   background-color: #fff;
   border-left-style: solid;
   border-left-color: #FFFFFF;
-  border-right-style: solid; }
+  border-right-style: solid; 
+  transition-duration: 0.25s;}
 
 /* line 276, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
 .barbuttons:hover {
@@ -267,7 +268,9 @@ blockquote {
   border-bottom-style: none;
   border-top-style: none;
   background-color: #333333;
-  box-shadow: none; }
+  box-shadow: none;
+  transition-duration: 0.25s;
+}
 
 /* line 285, D:/CloudStation/JobUndKarriere/FobizPhysio/FortbildungHPPT/Website/jekyll/githubpages/_includes/styles.scss */
 .right {
